@@ -1,0 +1,23 @@
+table,
+th,
+body {
+color:white;
+background-color:23;
+
+}
+td {
+   font-family: 'Montserrat', sans-serif;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+th{
+    color: black;
+}
+
+table {
+     background-color: pink ;
+     border-collapse: collapse;
+
+
+}
